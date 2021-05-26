@@ -28,6 +28,7 @@ This data was provided by UDACITY.
 # Summary
 This project provided analysis of Starbucks customer behaviour on mobile app. Results suggest that
 women and people of 40-60 years old age have the highest offer completion rate. 
+The blogpost about this study can be found here: https://algirdasducinskas.medium.com/how-to-improve-the-starbucks-offer-strategy-f4e93b4734f8
 
 # Author
 Algirdas Dučinskas
